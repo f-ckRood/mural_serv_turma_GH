@@ -1,8 +1,8 @@
 # Alunos
+Alisson Oliveira
 Gustavo Paulek
-Alisson
-Pedro Emilio
 Victor Pedro
+Pedro Emilio
 
 ### Error Pull Request // feat: implementar busca
 Erro com o arquivo .DS_Store 
