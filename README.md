@@ -1,8 +1,11 @@
 # Alunos
-Alisson Oliveira
-Gustavo Paulek
-Victor Pedro
-Pedro Emilio
+- Alisson Oliveira
+- Gustavo Paulek
+- Victor Pedro
+- Pedro Emilio
+
+### Error file "DS_Store"
+// already delete.
 
 # Mural de Servicos da Turma
 Projeto didatico para praticar Git, GitHub, branches, commits,
