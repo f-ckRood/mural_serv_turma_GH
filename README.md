@@ -4,6 +4,9 @@ Alisson
 Pedro Emilio
 Victor Pedro
 
+### Error Pull Request // feat: implementar busca
+Erro com o arquivo .DS_Store 
+
 # Mural de Servicos da Turma
 Projeto didatico para praticar Git, GitHub, branches, commits,
 pull requests, revisao de codigo, build automatico e deploy.
