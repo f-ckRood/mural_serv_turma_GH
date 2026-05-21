@@ -1,8 +1,8 @@
 # Alunos
+Alisson Oliveira
 Gustavo Paulek
-Alisson
-Pedro Emilio
 Victor Pedro
+Pedro Emilio
 
 # Mural de Servicos da Turma
 Projeto didatico para praticar Git, GitHub, branches, commits,
