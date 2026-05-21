@@ -1,11 +1,8 @@
 # Alunos
 Alisson Oliveira
+Pedro Emilio
 Gustavo Paulek
 Victor Pedro
-Pedro Emilio
-
-### Error Pull Request // feat: implementar busca
-Erro com o arquivo .DS_Store 
 
 # Mural de Servicos da Turma
 Projeto didatico para praticar Git, GitHub, branches, commits,
