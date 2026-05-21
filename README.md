@@ -1,3 +1,9 @@
+# Alunos
+Alisson Oliveira
+Pedro Emilio
+Gustavo Paulek
+Victor Pedro
+
 # Mural de Servicos da Turma
 Projeto didatico para praticar Git, GitHub, branches, commits,
 pull requests, revisao de codigo, build automatico e deploy.
